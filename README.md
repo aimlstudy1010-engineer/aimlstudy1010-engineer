@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="./profile-banner.png" alt="Rafiqul Islam - Data Scientist & ML Engineer" width="100%" />
+  <img src="./profile-banner.png" alt="Rafiqul Islam - Data Scientist & ML Engineer" width="80%" />
 </div>
 
 <h1 align="center">
